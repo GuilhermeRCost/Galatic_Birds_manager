@@ -1,7 +1,7 @@
-Galactic_Bird_Manager
+Galactic_Bird_Manager: 
 Final project of the course ALGORITHMS AND COMPUTER PROGRAMMING developed in C language
 
-Context
+Context: 
 It's the year 2030. Billionaire Jeff Elon Branson begins suborbital voyages of his most recent company Galatic Birds, in which ordinary citizens can take trips to the Kármán Line, located 100 km above sea level.
 
 As passenger demand is large, a computer program that can manage flights and bookings made is needed.
